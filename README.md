@@ -1,4 +1,10 @@
-# 1. Age Calculator in python 
+# 50 python projects challenges
+
+In this repository you'll find a collection of 50 Python projects challenges, each one with a different goal and getting harder to solve
+
+---
+
+## 1.Age Calculator
 
 >This is a simple program made by me, is the first from my 50 projects that i'm making.
 
@@ -14,4 +20,5 @@ in this age calculator app,users can type their date of birth and the app will d
 
 5. To make this work, just type ``` python3 age_calculator.py ``` in the terminal.
 
-![Calculator](img/captura1.png)# 50-python-projects
+![Calculator](img/captura1.png)
+---
